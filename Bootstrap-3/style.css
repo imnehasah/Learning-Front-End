@@ -1,0 +1,85 @@
+/*---------body-------------------*/
+body{
+	font-family:"Lato",Helvetica,arial.sans-serif;
+}
+/*-------------left-header----------*/
+.navbar{
+position: fixed;
+height:60px;
+background:black;
+width:100%; 
+}
+.left-header ul li{
+	display: inline;
+	padding:0 15px;
+	padding-top:20px;
+	color:white;   
+}
+.text{
+	float:left;
+	padding-left:15px;
+}
+.left-header{
+	padding-top:10px; 
+
+}
+.heading{
+	font-size:25px;
+	font-family: "lato",Helvetica,arial.sans-serif;
+	font-weight:bold;
+	color:white;
+	padding-left:10px;    
+}
+/*-------------left-header------------*/
+.btn{
+	color:silver;
+	background: transparent;
+	padding-top:8px;
+	border-radius: 5px;  
+}
+/*------------right-header------------*/
+.text1{
+	float:right;
+	padding-right:20px;  
+}
+/*----------button-right-side-------*/
+.btn1{
+	background:#EC4D35;
+	color: white;
+	height:30px;
+	font-weight:900;
+	border-radius:5px;  
+}
+.btn-logo{
+	width:80px; 
+}
+.design{
+	border:0.1px solid #898989;
+	width:200px; 
+	height:30px; 
+}
+/*-----------box-----------*/
+.box{
+	margin-left:10px;
+	margin-top:5px; 
+	border-radius: 5px;  
+}
+.x{
+	margin-left:20px; 
+}
+/*-----------------like---------*/
+.box1{
+	background:blue;
+	color: white;
+}
+.box2{
+	background:#1BACE6;
+	color:white;	
+}
+.box3{
+	background:white;
+	color:red;
+}
+
+
+
