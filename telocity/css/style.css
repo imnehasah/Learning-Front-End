@@ -6,10 +6,12 @@ body{
 /*-------------header-----------------*/
 .header{
 	background: url(../img/pic1.png);
-	background-attachment: fixed;
+	background-attachment:fixed;
 	background-size: cover;
 	background-position: center;
 	text-align: center;	
+	scroll-behavior: smooth;
+
 }
 .header h1{
 	padding-top:10%;
